@@ -1,1 +1,0 @@
-# Script Companion 2 Dev Docs
