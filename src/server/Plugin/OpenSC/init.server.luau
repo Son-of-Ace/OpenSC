@@ -4,6 +4,13 @@
 	It also calls any .Init functions that need to be ran upon startup.
 ]]
 
+--[[
+    - [Plugin]: OpenSC
+    - [Version 1.0.0]
+	
+    - [Date]: April 22, 2026
+]]
+
 -- Cache all services
 local ServiceProvider = require(script.Utils.ServiceProvider)
 
