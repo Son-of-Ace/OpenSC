@@ -7,3 +7,6 @@
 
 sourcemap.json
 wally.lock
+
+# Other stuff
+.vscode/
