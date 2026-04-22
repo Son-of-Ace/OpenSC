@@ -1,6 +1,6 @@
 # OpenSC
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-2.0.0A-green.svg)](CHANGELOG.md)
+[![Version](https://img.shields.io/badge/Version-1.0.0A-green.svg)](CHANGELOG.md)
 [![Compatibility](https://img.shields.io/badge/Compatible-Roblox%20Studio-red.svg)]()
 
 OpenSC is a plugin made for Roblox Studio to help with tedious scripting or other tasks!
