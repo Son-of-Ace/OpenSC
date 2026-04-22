@@ -7,9 +7,9 @@ OpenSC is a plugin made for Roblox Studio to help with tedious scripting or othe
 ---
 
 ## Quick Start
-- Backend Devs should go read Documentation/backend
-- Frontend Devs should go read Documentation/frontend
-- UI Creators should go read Documentation/ui
+- Backend Devs should go read Documentation/backend/contribute-docs.rst
+- Frontend Devs should go read Documentation/frontend/contribute-docs.rst
+- UI Creators should go read Documentation/ui/contribute-docs.rst
 
 ## Roles
 - Backend Devs job is to make systems or tools that the frontend developers can easily use. These systems and tools should be cleanly organized, well documented and easy to use. Your job is also to optimize code that needs it.
