@@ -6,7 +6,7 @@ local e = React.createElement
 local Types = require(script.Parent.Parent.Parent.Parent.Utils.TypeUtils.Types)
 local Settings = require(script.LeftPanelSettings)
 
-local RadioButton = require(script.Parent.Parent.Components.Buttons.RadioButton)
+local RadioButton = require(script.Parent.Parent.Components.Buttons.PanelButton)
 local DragableSplitter = require(script.Parent.Parent.Components.Utility.DragableSplitter)
 
 local function LeftPanel(props: Props)
